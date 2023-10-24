@@ -27,6 +27,6 @@ body {
         }
         </style>
 <body>
-<p>my simple html index</p>
+<p>my name is  simple html index</p>
 </body>
 </html>
