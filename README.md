@@ -27,6 +27,6 @@ body {
         }
         </style>
 <body>
-<p>my name is  simple html index</p>
+<p>my name is kevin jhon G tolentino and this si my simple html index</p>
 </body>
 </html>
