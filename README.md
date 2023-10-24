@@ -1,16 +1,32 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>kevin tolentino</title>
+</head>
+  <style>
+body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
 
-<!--
-**Tolentinokevin/Tolentinokevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        h1 {
+            color: #333;
+        }
 
-Here are some ideas to get you started:
+        p {
+            color: #666;
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        </style>
+<body>
+<p>my simple html index</p>
+</body>
+</html>
